@@ -1,2 +1,4 @@
 # mpidllib
-A library of IDL routines
+
+This is a small personal library of IDL routines.
+I haven't taken precautions with namespace.
